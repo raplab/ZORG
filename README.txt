@@ -1,5 +1,5 @@
-ZORG
-Rhinoscript: Convert and send Jobs to Zuend Cutting Machines using Rhino V5 
+﻿ZORG
+Rhinoscript: Convert and stream Jobs to Zuend Cutting Machines using HPGL from Rhino V5 instead of using PLT files
 
 Copyright (C) 2013  Daniel Bachmann, Alessandro Tellini
 
