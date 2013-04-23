@@ -75,10 +75,10 @@ Rhino.Runtime.HostUtils.DisplayOleAlerts(False)
 sendToMachine=True      #False for File Output
 
 #default variables for Workspace settings
-maxWSPx=1600            #Max Workspace Coordinate X-Axis in mm
-maxWSPy=1300            #Max Workspace Coordinate Y-Axis in mm
-minWSPx=0               #Min Workspace Coordinate X-Axis in mm
-minWSPy=0               #Min Workspace Coordinate Y-Axis in mm
+maxWSPx=1601            #Max Workspace Coordinate +1 X-Axis in mm
+maxWSPy=1301            #Max Workspace Coordinate +1 Y-Axis in mm
+minWSPx=-1              #Min Workspace Coordinate -1 X-Axis in mm
+minWSPy=-1              #Min Workspace Coordinate -1 Y-Axis in mm
 
 #default variables for Commandline Options
 minSpeed = 1            #Min Speed in mm/s
