@@ -1,7 +1,7 @@
 ﻿ZORG
 Rhinoscript: Convert and stream Jobs to Zuend Cutting Machines using HPGL from Rhino V5 instead of using PLT files
 
-Copyright (C) 2013  Daniel Bachmann, Alessandro Tellini
+2013-15  Daniel Bachmann, Alessandro Tellini
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -17,16 +17,16 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ZORG
-Date/Version: 04.04.2013  V1.0
+Date/Version: 04.12.2015  V1.1
 
-Written by  -  Daniel Bachmann       (daniel.bachmann@arch.ethz.ch)
-			-  Alessandro Tellini    (tellini@arch.ethz.ch)
+Written by  -  Main Code:         Daniel Bachmann       (daniel.bachmann@arch.ethz.ch)
+	    -  Serial Connection: Alessandro Tellini    (tellini@arch.ethz.ch)
 
 Snail-Mail Contact:
 ETH Zürich
 RAPLAB D-ARCH Daniel Bachmann
-HIL D34.2
-Wolfgang-Pauli-Str. 15
+HIL B37
+Stefano-Franscini-Platz 5
 8093 Zürich
 
 Streamlined Zuend Machine Cutting and Engraving out of Rhino V5
